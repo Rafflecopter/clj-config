@@ -1,0 +1,6 @@
+{
+  "foo": "bar",
+  "bar": 5,
+  "baz": {"moo": "foo", "koo": 1},
+  "environ": "{env://TEST_VAR}"
+}

@@ -1,0 +1,5 @@
+{
+  "bug": "bugz",
+  "foo": "foobar",
+  "baz": {"koo": 10}
+}
