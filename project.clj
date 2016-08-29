@@ -1,4 +1,4 @@
-(defproject com.rafflecopter/config "0.1.0"
+(defproject com.rafflecopter/config "0.1.1"
   :description "Read configs from json files and environment variables"
   :url "https://github.com/Rafflecopter/clj-config"
   :license {:name "MIT"
