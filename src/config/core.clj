@@ -1,8 +1,8 @@
-(ns yanatan.config.core
+(ns config.core
   (:require [clojure.data.json :as json]
             [clojure.contrib.map-utils :as mapu]
             [clojure.java.io :as io]
-            [yanatan.config.environ :as cfgenv]))
+            [config.environ :as cfgenv]))
 
 (defn read-json [file]
   (try (-> file

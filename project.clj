@@ -1,8 +1,8 @@
-(defproject org.clojars.yanatan16/config "0.1.0"
+(defproject com.rafflecopter/config "0.1.0"
   :description "Read configs from json files and environment variables"
-  :url "https://github.com/yanatan16/clj-config"
+  :url "https://github.com/Rafflecopter/clj-config"
   :license {:name "MIT"
-            :url "https://github.com/yanatan16/clj-config/blob/master/LICENSE"}
+            :url "https://github.com/Rafflecopter/clj-config/blob/master/LICENSE"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/clojure-contrib "1.2.0"]
                  [org.clojure/data.json "0.2.5"]

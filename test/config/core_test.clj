@@ -1,6 +1,6 @@
-(ns yanatan.config.core-test
+(ns config.core-test
   (:require [clojure.test :refer :all]
-            [yanatan.config.core :refer :all]))
+            [config.core :refer :all]))
 
 (deftest config-test
   (testing "throws before being setup"
