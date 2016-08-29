@@ -1,7 +1,7 @@
 (ns config.environ
-  (require [clojure.string :as string]
-           [clojure.walk :refer [prewalk]]
-           [environ.core :refer [env]]))
+  (:require [clojure.string :as string]
+            [clojure.walk :refer [prewalk]]
+            [environ.core :refer [env]]))
 
 (defn getenv [v]
   (-> v
